@@ -1,0 +1,42 @@
+From 51a3b41543d53449eacaf8713dcb1f36c427ecc2 Mon Sep 17 00:00:00 2001
+From: Arena Agent <agent@arena.ai>
+Date: Tue, 18 Aug 2026 09:32:01 +0000
+Subject: [PATCH] Debug: capture gradle failure details as annotations
+
+Gradle assembleRelease is failing at a node task; the raw error is only
+visible inside the step log. This reroutes output to a file, prints the
+tail, and emits the key error lines as ::error:: annotations so the root
+cause is visible from the run summary.
+---
+ .github/workflows/production-apk.yml | 15 ++++++++++++++-
+ 1 file changed, 14 insertions(+), 1 deletion(-)
+
+diff --git a/.github/workflows/production-apk.yml b/.github/workflows/production-apk.yml
+index 2318707..7241f1f 100644
+--- a/.github/workflows/production-apk.yml
++++ b/.github/workflows/production-apk.yml
+@@ -178,7 +178,20 @@ jobs:
+         working-directory: mobile/android
+         run: |
+           chmod +x gradlew
+-          ./gradlew assembleRelease -PreactNativeArchitectures=arm64-v8a,armeabi-v7a --no-daemon
++          set +e
++          ./gradlew assembleRelease -PreactNativeArchitectures=arm64-v8a,armeabi-v7a --no-daemon --stacktrace > /tmp/gradle.log 2>&1
++          STATUS=$?
++          set -e
++          if [ "$STATUS" -ne 0 ]; then
++            echo "===== GRADLE FAILURE — last 80 lines ====="
++            tail -80 /tmp/gradle.log
++            echo "===== Key error lines (also sent as annotations) ====="
++            grep -E "Caused by:|What went wrong|Execution failed|FAILED|error|Error|ENOENT|Cannot find|Unsupported|Required" /tmp/gradle.log | tail -40 | head -10 | while IFS= read -r line; do
++              msg=$(echo "$line" | tr -d '\r' | cut -c1-200)
++              echo "::error::GRADLE: $msg"
++            done
++            exit 1
++          fi
+ 
+       - name: Verify APK is signed with OUR keystore (not debug)
+         working-directory: mobile/android
+-- 
+2.39.5
+
