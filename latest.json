@@ -1,8 +1,8 @@
 {
-  "version": "1.10.2",
-  "versionCode": 17,
-  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.10.2-17/UPM-v1.10.2-17-release.apk",
-  "sha256": "8d91a83abb2b03aff17c7a9c73425c2a0c1336f0b352012b90b4cb0bd8dfae56",
+  "version": "1.10.3",
+  "versionCode": 18,
+  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.10.3-18/UPM-v1.10.3-18-release.apk",
+  "sha256": "fad0c54dc7b9d2c5e628790bf383874f85bf514d7262e745d59fcffe3e051488",
   "notes": "",
-  "publishedAt": "2026-08-19T04:11:07Z"
+  "publishedAt": "2026-08-19T04:32:20Z"
 }
