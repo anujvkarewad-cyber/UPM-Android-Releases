@@ -2,4 +2,4 @@
 
 Official Android releases for Ujjwal Pathak Mentorship
 
-Last release: v1.10.3 (18) on 2026-08-19 - see [latest.json](latest.json)
+Last release: v1.10.4 (19) on 2026-08-20 - see [latest.json](latest.json)
