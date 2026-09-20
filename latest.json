@@ -1,8 +1,8 @@
 {
-  "version": "1.10.5",
-  "versionCode": 21,
-  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.10.5-21/UPM-v1.10.5-21-release.apk",
-  "sha256": "02a20f5bb8dd855a222c26f8bcd8ddc3cffbe753bc4706b8afca48fb71898d72",
-  "notes": "",
-  "publishedAt": "2026-08-23T07:33:08Z"
+  "version": "1.11.0",
+  "versionCode": 22,
+  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.11.0-22/UPM-v1.11.0-22-release.apk",
+  "sha256": "0499c4035db18a391d685f1dd2c1852f94a5cee767c597fc9f1270eb80bf7985",
+  "notes": "Full redesign: mentor-uploaded tests with answer key and marking scheme, messaging, weekly reports, AI chatbot, reminders.",
+  "publishedAt": "2026-09-20T12:44:01Z"
 }
