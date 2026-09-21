@@ -3,6 +3,7 @@
   "versionCode": 30,
   "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.11.8-30/UPM-v1.11.8-30-release.apk",
   "sha256": "ca66840a58af3e71074991b43d4cf35eb78cd611fddec4f87660a97652bfbaf3",
-  "notes": "",
-  "publishedAt": "2026-09-21T16:45:06Z"
+  "notes": "ChatGPT-style AI assistant UI - headings, bold without ** stars, bullets with dots, clean tables, avatar, typing bar fix verified",
+  "publishedAt": "2026-09-21T16:45:06Z",
+  "minimumVersionCode": 29
 }
