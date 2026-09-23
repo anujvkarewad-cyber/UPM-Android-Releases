@@ -1,9 +1,8 @@
 {
-  "version": "1.11.9",
-  "versionCode": 31,
-  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.11.9-31/UPM-v1.11.9-31-release.apk",
-  "sha256": "db99a4390f7b010badd027d2546b838bf598979e7a29fbe723a046081ca91a10",
-  "notes": "TRUE ChatGPT clone - no bubbles, no * stars, big headings 20px, pill composer Message UPM AI, typing fix",
-  "publishedAt": "2026-09-21T17:31:31Z",
-  "minimumVersionCode": 30
+  "version": "1.12.0",
+  "versionCode": 32,
+  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.12.0-32/UPM-v1.12.0-32-release.apk",
+  "sha256": "21197a13d01b54bbb50ad256bd78173ab2a82dec615b81e9c3d1790a062ff057",
+  "notes": "",
+  "publishedAt": "2026-09-23T14:30:46Z"
 }
