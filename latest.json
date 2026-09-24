@@ -1,8 +1,8 @@
 {
-  "version": "1.13.0",
-  "versionCode": 33,
-  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.13.0-33/UPM-v1.13.0-33-release.apk",
-  "sha256": "1d84f206a144c8a67a88e13343dd6b4efa61446ae634aae76316490693d81c11",
-  "notes": "",
-  "publishedAt": "2026-09-23T18:21:19Z"
+  "version": "1.14.2",
+  "versionCode": 37,
+  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.14.2-37/UPM-v1.14.2-37-release.apk",
+  "sha256": "600b745b1f98e69ed928e2e57947f6270f8b11d5b116fce9ecf6523ff1de253c",
+  "notes": "Demo data removed. Mentor tests stay empty until the daily target is published.",
+  "publishedAt": "2026-09-24T19:07:05Z"
 }
