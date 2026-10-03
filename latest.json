@@ -1,8 +1,8 @@
 {
-  "version": "1.14.2",
-  "versionCode": 37,
-  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.14.2-37/UPM-v1.14.2-37-release.apk",
-  "sha256": "600b745b1f98e69ed928e2e57947f6270f8b11d5b116fce9ecf6523ff1de253c",
-  "notes": "Demo data removed. Mentor tests stay empty until the daily target is published.",
-  "publishedAt": "2026-09-24T19:07:05Z"
+  "version": "1.14.5",
+  "versionCode": 40,
+  "minimumVersionCode": 40,
+  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.14.5-40/UPM-v1.14.5-40-release.apk",
+  "notes": "App ab Google Cloud Run par. Login theek. Naya naam: Super 75 by Ujjwal.",
+  "publishedAt": "2026-10-03T15:00:00Z"
 }
