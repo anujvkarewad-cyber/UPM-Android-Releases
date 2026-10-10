@@ -1,10 +1,11 @@
 {
-  "version": "1.14.6",
-  "versionCode": 41,
-  "minimumVersionCode": 41,
-  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.14.6-41/UPM-v1.14.6-41-release.apk",
-  "downloadUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.14.6-41/UPM-v1.14.6-41-release.apk",
-  "notes": "Added exact 4-step Mentor Tests workflow. Please update immediately to view your tests.",
-  "releaseNotes": "Added exact 4-step Mentor Tests workflow. Please update immediately to view your tests.",
-  "publishedAt": "2026-10-10"
+  "version": "1.14.8",
+  "versionCode": 43,
+  "minimumVersionCode": 43,
+  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.14.8-43/UPM-v1.14.8-43-release.apk",
+  "downloadUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.14.8-43/UPM-v1.14.8-43-release.apk",
+  "sha256": "95ee12dd15238c1b8013d7fd82ff33736af6c7740e176234a8851227c592568c",
+  "notes": "Hardened update flow after 10-Oct incident: updater falls back apkUrl->downloadUrl and logs rejected checks; latest.json carries all keys; CI validates the live payload after publish.",
+  "releaseNotes": "Hardened update flow after 10-Oct incident: updater falls back apkUrl->downloadUrl and logs rejected checks; latest.json carries all keys; CI validates the live payload after publish.",
+  "publishedAt": "2026-10-10T19:23:02Z"
 }
