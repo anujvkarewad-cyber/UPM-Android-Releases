@@ -1,5 +1,10 @@
 # UPM Android Releases
 
-Official Android releases for Ujjwal Pathak Mentorship
+This repository holds the pre-built, signed APKs for the Super 75 by Ujjwal Android app.
 
-Last release: v1.14.2 (37) on 2026-09-24 - see [latest.json](latest.json)
+## Latest Release
+
+**Version:** 1.14.6 (Build 41)  
+**Notes:** Added exact 4-step Mentor Tests workflow.
+
+[Download APK](https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.14.6-41/UPM-v1.14.6-41-release.apk)

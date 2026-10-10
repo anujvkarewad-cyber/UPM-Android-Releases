@@ -1,12 +1,6 @@
 {
   "version": "1.14.6",
   "versionCode": 41,
-  "minimumVersionCode": 41,
-  "forceUpdate": true,
-  "apkUrl": "https://storage.googleapis.com/ump-dashboard-android-releases-566076646952/releases/v1.14.6/UPM-v1.14.6-41-release.apk",
-  "sha256": "555863ea7c6b74bb414ce25e5168f670a2ed9c2222a2ba655977189c51f6583b",
-  "size": 51372982,
-  "notes": "Fresh login fixed for newly enrolled students. Android network reliability improved.",
-  "publishedAt": "2026-10-06T09:52:52Z",
-  "sourceCommit": "9c18fc986d5d0082b330649da78455fba062b80c"
+  "downloadUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.14.6-41/UPM-v1.14.6-41-release.apk",
+  "releaseNotes": "Added exact 4-step Mentor Tests workflow."
 }
