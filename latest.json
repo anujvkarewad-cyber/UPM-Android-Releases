@@ -1,11 +1,11 @@
 {
-  "version": "1.14.8",
-  "versionCode": 43,
-  "minimumVersionCode": 43,
-  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.14.8-43/UPM-v1.14.8-43-release.apk",
-  "downloadUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.14.8-43/UPM-v1.14.8-43-release.apk",
-  "sha256": "95ee12dd15238c1b8013d7fd82ff33736af6c7740e176234a8851227c592568c",
-  "notes": "Hardened update flow after 10-Oct incident: updater falls back apkUrl->downloadUrl and logs rejected checks; latest.json carries all keys; CI validates the live payload after publish.",
-  "releaseNotes": "Hardened update flow after 10-Oct incident: updater falls back apkUrl->downloadUrl and logs rejected checks; latest.json carries all keys; CI validates the live payload after publish.",
-  "publishedAt": "2026-10-10T19:23:02Z"
+  "version": "1.15.0",
+  "versionCode": 44,
+  "minimumVersionCode": 44,
+  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.15.0-44/UPM-v1.15.0-44-release.apk",
+  "downloadUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.15.0-44/UPM-v1.15.0-44-release.apk",
+  "sha256": "4e0c252810ded4f153d521b48631b53321bd98a497706c0c6e39b680069519e6",
+  "notes": "Native 4-step Mentor Tests flow (no webview): in-app protected PDF viewer with student-ID watermark, camera/gallery/PDF upload, silent auto-updates without banner.",
+  "releaseNotes": "Native 4-step Mentor Tests flow (no webview): in-app protected PDF viewer with student-ID watermark, camera/gallery/PDF upload, silent auto-updates without banner.",
+  "publishedAt": "2026-10-10T20:11:05Z"
 }
