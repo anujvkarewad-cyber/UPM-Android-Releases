@@ -1,6 +1,10 @@
 {
   "version": "1.14.6",
   "versionCode": 41,
+  "minimumVersionCode": 41,
+  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.14.6-41/UPM-v1.14.6-41-release.apk",
   "downloadUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.14.6-41/UPM-v1.14.6-41-release.apk",
-  "releaseNotes": "Added exact 4-step Mentor Tests workflow."
+  "notes": "Added exact 4-step Mentor Tests workflow. Please update immediately to view your tests.",
+  "releaseNotes": "Added exact 4-step Mentor Tests workflow. Please update immediately to view your tests.",
+  "publishedAt": "2026-10-10"
 }
