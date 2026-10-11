@@ -1,11 +1,11 @@
 {
-  "version": "1.15.0",
-  "versionCode": 44,
-  "minimumVersionCode": 44,
-  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.15.0-44/UPM-v1.15.0-44-release.apk",
-  "downloadUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.15.0-44/UPM-v1.15.0-44-release.apk",
-  "sha256": "4e0c252810ded4f153d521b48631b53321bd98a497706c0c6e39b680069519e6",
-  "notes": "Native 4-step Mentor Tests flow (no webview): in-app protected PDF viewer with student-ID watermark, camera/gallery/PDF upload, silent auto-updates without banner.",
-  "releaseNotes": "Native 4-step Mentor Tests flow (no webview): in-app protected PDF viewer with student-ID watermark, camera/gallery/PDF upload, silent auto-updates without banner.",
-  "publishedAt": "2026-10-10T20:11:05Z"
+  "version": "1.15.1",
+  "versionCode": 45,
+  "minimumVersionCode": 45,
+  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.15.1-45/UPM-v1.15.1-45-release.apk",
+  "downloadUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.15.1-45/UPM-v1.15.1-45-release.apk",
+  "sha256": "c388f2cec750a7007c972c98f736261863ef48e1fafa802db9164b4a89235e1e",
+  "notes": "Visible update progress + plain-language error reasons + one-tap install; question papers in notes-format protected viewer; Open/Upload test detail; leaderboard/daily auto-refresh; push deep-links.",
+  "releaseNotes": "Visible update progress + plain-language error reasons + one-tap install; question papers in notes-format protected viewer; Open/Upload test detail; leaderboard/daily auto-refresh; push deep-links.",
+  "publishedAt": "2026-10-11T08:52:32Z"
 }
