@@ -1,11 +1,11 @@
 {
-  "version": "1.15.2",
-  "versionCode": 46,
-  "minimumVersionCode": 46,
-  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.15.2-46/UPM-v1.15.2-46-release.apk",
-  "downloadUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.15.2-46/UPM-v1.15.2-46-release.apk",
-  "sha256": "e287aa09da88a43f1edd132be8bbf3919040ba591903ea3080bef4db6001461a",
-  "notes": "1) Notes ab teen level me: Subject -> Super 75 (series/teacher) -> Chapter folders (Ch 2, Ch 11 ...) -> files. Chapter-wise order aur search waise hi. 2) Naya: student khud 'Leave' ya 'Absent' mark kar sakta hai (app me Tracker screen par), mentor dashboard aur attendance grid me dikhta hai. 3) Update ab zyada bharosemand: live progress, network rukne par auto-retry, aur har screen par 'Download in browser' option \u2014 update par koi atkega nahi. Version 1.15.2 (46).",
-  "releaseNotes": "1) Notes ab teen level me: Subject -> Super 75 (series/teacher) -> Chapter folders (Ch 2, Ch 11 ...) -> files. Chapter-wise order aur search waise hi. 2) Naya: student khud 'Leave' ya 'Absent' mark kar sakta hai (app me Tracker screen par), mentor dashboard aur attendance grid me dikhta hai. 3) Update ab zyada bharosemand: live progress, network rukne par auto-retry, aur har screen par 'Download in browser' option \u2014 update par koi atkega nahi. Version 1.15.2 (46).",
-  "publishedAt": "2026-10-14T13:23:54Z"
+  "version": "1.15.1",
+  "versionCode": 45,
+  "minimumVersionCode": 45,
+  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.15.1-45/UPM-v1.15.1-45-release.apk",
+  "downloadUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.15.1-45/UPM-v1.15.1-45-release.apk",
+  "sha256": "c388f2cec750a7007c972c98f736261863ef48e1fafa802db9164b4a89235e1e",
+  "notes": "Visible update progress + plain-language error reasons + one-tap install; question papers in notes-format protected viewer; Open/Upload test detail; leaderboard/daily auto-refresh; push deep-links.",
+  "releaseNotes": "Visible update progress + plain-language error reasons + one-tap install; question papers in notes-format protected viewer; Open/Upload test detail; leaderboard/daily auto-refresh; push deep-links.",
+  "publishedAt": "2026-10-11T08:52:32Z"
 }
