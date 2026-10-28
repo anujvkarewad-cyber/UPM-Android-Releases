@@ -1,11 +1,11 @@
 {
-  "version": "1.15.2",
-  "versionCode": 46,
+  "version": "1.16.0",
+  "versionCode": 50,
   "minimumVersionCode": 46,
-  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.15.2-46/UPM-v1.15.2-46-release.apk",
-  "downloadUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.15.2-46/UPM-v1.15.2-46-release.apk",
-  "sha256": "e287aa09da88a43f1edd132be8bbf3919040ba591903ea3080bef4db6001461a",
-  "notes": "Visible update progress + plain-language error reasons + one-tap install; question papers in notes-format protected viewer; Open/Upload test detail; leaderboard/daily auto-refresh; push deep-links.",
-  "releaseNotes": "Visible update progress + plain-language error reasons + one-tap install; question papers in notes-format protected viewer; Open/Upload test detail; leaderboard/daily auto-refresh; push deep-links.",
-  "publishedAt": "2026-10-11T08:52:32Z"
+  "apkUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.16.0-50/UPM-v1.16.0-50-release.apk",
+  "downloadUrl": "https://github.com/anujvkarewad-cyber/UPM-Android-Releases/releases/download/v1.16.0-50/UPM-v1.16.0-50-release.apk",
+  "sha256": "6afbd93f8726994b3b01c89610520fd67f0a46ba36e89b1042c4c70459653b93",
+  "notes": "v1.16.0: new tabs redesign, Todays Target with weekly task, Tracker absence flow, fully English app, proof-photo crash fix, faster updater.",
+  "releaseNotes": "New design + Weekly task + Tracker absent fixes + English-only app + proof photo fix. Update installs right over your current app.",
+  "publishedAt": "2026-10-28T10:45:00Z"
 }
